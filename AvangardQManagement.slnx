@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AvangardQManagement.Application/AvangardQManagement.Application.csproj" />
+  <Project Path="AvangardQManagement.Domain/AvangardQManagement.Domain.csproj" />
+  <Project Path="AvangardQManagement.Infrastructure/AvangardQManagement.Infrastructure.csproj" />
+  <Project Path="AvangardQManagement/AvangardQManagement.csproj" />
+</Solution>

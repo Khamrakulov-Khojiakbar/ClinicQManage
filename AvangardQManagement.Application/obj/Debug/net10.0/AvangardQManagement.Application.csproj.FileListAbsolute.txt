@@ -1,0 +1,11 @@
+D:\Dev\AvangardQManagement\AvangardQManagement.Application\bin\Debug\net10.0\AvangardQManagement.Application.deps.json
+D:\Dev\AvangardQManagement\AvangardQManagement.Application\bin\Debug\net10.0\AvangardQManagement.Application.dll
+D:\Dev\AvangardQManagement\AvangardQManagement.Application\bin\Debug\net10.0\AvangardQManagement.Application.pdb
+D:\Dev\AvangardQManagement\AvangardQManagement.Application\obj\Debug\net10.0\AvangardQManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\AvangardQManagement\AvangardQManagement.Application\obj\Debug\net10.0\AvangardQManagement.Application.AssemblyInfoInputs.cache
+D:\Dev\AvangardQManagement\AvangardQManagement.Application\obj\Debug\net10.0\AvangardQManagement.Application.AssemblyInfo.cs
+D:\Dev\AvangardQManagement\AvangardQManagement.Application\obj\Debug\net10.0\AvangardQManagement.Application.csproj.CoreCompileInputs.cache
+D:\Dev\AvangardQManagement\AvangardQManagement.Application\obj\Debug\net10.0\AvangardQManagement.Application.dll
+D:\Dev\AvangardQManagement\AvangardQManagement.Application\obj\Debug\net10.0\refint\AvangardQManagement.Application.dll
+D:\Dev\AvangardQManagement\AvangardQManagement.Application\obj\Debug\net10.0\AvangardQManagement.Application.pdb
+D:\Dev\AvangardQManagement\AvangardQManagement.Application\obj\Debug\net10.0\ref\AvangardQManagement.Application.dll

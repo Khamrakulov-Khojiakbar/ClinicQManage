@@ -1,0 +1,6 @@
+@AvangardQManagement_HostAddress = http://localhost:5042
+
+GET {{AvangardQManagement_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
