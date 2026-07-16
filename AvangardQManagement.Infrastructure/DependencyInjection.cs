@@ -1,4 +1,5 @@
-﻿using AvangardQManagement.Domain.Interfaces;
+﻿using AvangardQManagement.Application.Common.Interfaces;
+using AvangardQManagement.Domain.Interfaces;
 using AvangardQManagement.Infrastructure.ApplicationDbContext;
 using AvangardQManagement.Infrastructure.Repositories;
 using Microsoft.EntityFrameworkCore;
@@ -28,7 +29,9 @@ public static class DependencyInjection
         services.AddScoped<IRoomRepository, RoomRepository>();
         services.AddScoped<ITicketRepository, TicketRepository>();
         services.AddScoped<IUserRepository, UserRepository>();
-        
+
+        services.AddScoped<IUnitOfWork>(provider => provider.GetRequiredService<AvangardDbContext>());
+
 
 
 

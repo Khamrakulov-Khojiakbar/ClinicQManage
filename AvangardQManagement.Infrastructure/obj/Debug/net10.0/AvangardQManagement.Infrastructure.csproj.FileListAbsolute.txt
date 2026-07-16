@@ -17,3 +17,12 @@ D:\Dev\AvangardQManagement\AvangardQManagement.Infrastructure\obj\Debug\net10.0\
 D:\Dev\AvangardQManagement\AvangardQManagement.Infrastructure\obj\Debug\net10.0\AvangardQManagement.Infrastructure.pdb
 D:\Dev\AvangardQManagement\AvangardQManagement.Infrastructure\obj\Debug\net10.0\AvangardQManagement.Infrastructure.genruntimeconfig.cache
 D:\Dev\AvangardQManagement\AvangardQManagement.Infrastructure\obj\Debug\net10.0\ref\AvangardQManagement.Infrastructure.dll
+E:\Projects\ClinicQManage\AvangardQManagement.Infrastructure\obj\Debug\net10.0\AvangardQManagement.Infrastructure.csproj.AssemblyReference.cache
+E:\Projects\ClinicQManage\AvangardQManagement.Infrastructure\obj\Debug\net10.0\AvangardQManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\ClinicQManage\AvangardQManagement.Infrastructure\obj\Debug\net10.0\AvangardQManagement.Infrastructure.AssemblyInfoInputs.cache
+E:\Projects\ClinicQManage\AvangardQManagement.Infrastructure\obj\Debug\net10.0\AvangardQManagement.Infrastructure.AssemblyInfo.cs
+E:\Projects\ClinicQManage\AvangardQManagement.Infrastructure\obj\Debug\net10.0\AvangardQManagement.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Projects\ClinicQManage\AvangardQManagement.Infrastructure\obj\Debug\net10.0\AvangardQManagement.Infrastructure.sourcelink.json
+E:\Projects\ClinicQManage\AvangardQManagement.Infrastructure\obj\Debug\net10.0\AvangardQManagement.Infrastructure.dll
+E:\Projects\ClinicQManage\AvangardQManagement.Infrastructure\obj\Debug\net10.0\refint\AvangardQManagement.Infrastructure.dll
+E:\Projects\ClinicQManage\AvangardQManagement.Infrastructure\obj\Debug\net10.0\AvangardQManagement.Infrastructure.pdb

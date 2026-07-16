@@ -1,4 +1,5 @@
-﻿using AvangardQManagement.Domain.Auth;
+﻿using AvangardQManagement.Application.Common.Interfaces;
+using AvangardQManagement.Domain.Auth;
 using AvangardQManagement.Domain.Enums;
 using AvangardQManagement.Domain.Models;
 using Microsoft.EntityFrameworkCore;
@@ -8,7 +9,7 @@ using System.Text;
 
 namespace AvangardQManagement.Infrastructure.ApplicationDbContext;
 
-public class AvangardDbContext : DbContext
+public class AvangardDbContext : DbContext, IUnitOfWork
 {
 
     public AvangardDbContext(DbContextOptions<AvangardDbContext> options)

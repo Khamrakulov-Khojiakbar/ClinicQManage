@@ -1,3 +1,4 @@
+using AvangardQManagement.Application;
 using AvangardQManagement.Infrastructure;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -8,6 +9,8 @@ builder.Services.AddControllers();
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 
 builder.Services.AddInfrastructure(builder.Configuration);
+
+builder.Services.AddApplication();
 
 
 

@@ -9,3 +9,16 @@ D:\Dev\AvangardQManagement\AvangardQManagement.Application\obj\Debug\net10.0\Ava
 D:\Dev\AvangardQManagement\AvangardQManagement.Application\obj\Debug\net10.0\refint\AvangardQManagement.Application.dll
 D:\Dev\AvangardQManagement\AvangardQManagement.Application\obj\Debug\net10.0\AvangardQManagement.Application.pdb
 D:\Dev\AvangardQManagement\AvangardQManagement.Application\obj\Debug\net10.0\ref\AvangardQManagement.Application.dll
+E:\Projects\ClinicQManage\AvangardQManagement.Application\bin\Debug\net10.0\AvangardQManagement.Application.deps.json
+E:\Projects\ClinicQManage\AvangardQManagement.Application\bin\Debug\net10.0\AvangardQManagement.Application.dll
+E:\Projects\ClinicQManage\AvangardQManagement.Application\bin\Debug\net10.0\AvangardQManagement.Application.pdb
+E:\Projects\ClinicQManage\AvangardQManagement.Application\obj\Debug\net10.0\AvangardQManagement.Application.csproj.AssemblyReference.cache
+E:\Projects\ClinicQManage\AvangardQManagement.Application\obj\Debug\net10.0\AvangardQManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\ClinicQManage\AvangardQManagement.Application\obj\Debug\net10.0\AvangardQManagement.Application.AssemblyInfoInputs.cache
+E:\Projects\ClinicQManage\AvangardQManagement.Application\obj\Debug\net10.0\AvangardQManagement.Application.AssemblyInfo.cs
+E:\Projects\ClinicQManage\AvangardQManagement.Application\obj\Debug\net10.0\AvangardQManagement.Application.csproj.CoreCompileInputs.cache
+E:\Projects\ClinicQManage\AvangardQManagement.Application\obj\Debug\net10.0\AvangardQManagement.Application.sourcelink.json
+E:\Projects\ClinicQManage\AvangardQManagement.Application\obj\Debug\net10.0\AvangardQManagement.Application.dll
+E:\Projects\ClinicQManage\AvangardQManagement.Application\obj\Debug\net10.0\refint\AvangardQManagement.Application.dll
+E:\Projects\ClinicQManage\AvangardQManagement.Application\obj\Debug\net10.0\AvangardQManagement.Application.pdb
+E:\Projects\ClinicQManage\AvangardQManagement.Application\obj\Debug\net10.0\ref\AvangardQManagement.Application.dll

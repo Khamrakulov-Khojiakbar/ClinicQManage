@@ -181,3 +181,14 @@ D:\Dev\AvangardQManagement\AvangardQManagement\bin\Debug\net10.0\AvangardQManage
 D:\Dev\AvangardQManagement\AvangardQManagement\bin\Debug\net10.0\AvangardQManagement.Application.pdb
 D:\Dev\AvangardQManagement\AvangardQManagement\bin\Debug\net10.0\AvangardQManagement.Domain.pdb
 D:\Dev\AvangardQManagement\AvangardQManagement\obj\Debug\net10.0\AvangardQManagement.csproj.AssemblyReference.cache
+E:\Projects\ClinicQManage\AvangardQManagement\obj\Debug\net10.0\AvangardQManagement.csproj.AssemblyReference.cache
+E:\Projects\ClinicQManage\AvangardQManagement\obj\Debug\net10.0\rpswa.dswa.cache.json
+E:\Projects\ClinicQManage\AvangardQManagement\obj\Debug\net10.0\AvangardQManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\ClinicQManage\AvangardQManagement\obj\Debug\net10.0\AvangardQManagement.AssemblyInfoInputs.cache
+E:\Projects\ClinicQManage\AvangardQManagement\obj\Debug\net10.0\AvangardQManagement.AssemblyInfo.cs
+E:\Projects\ClinicQManage\AvangardQManagement\obj\Debug\net10.0\AvangardQManagement.csproj.CoreCompileInputs.cache
+E:\Projects\ClinicQManage\AvangardQManagement\obj\Debug\net10.0\AvangardQManagement.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\ClinicQManage\AvangardQManagement\obj\Debug\net10.0\AvangardQManagement.sourcelink.json
+E:\Projects\ClinicQManage\AvangardQManagement\obj\Debug\net10.0\AvangardQManagement.dll
+E:\Projects\ClinicQManage\AvangardQManagement\obj\Debug\net10.0\refint\AvangardQManagement.dll
+E:\Projects\ClinicQManage\AvangardQManagement\obj\Debug\net10.0\AvangardQManagement.pdb
