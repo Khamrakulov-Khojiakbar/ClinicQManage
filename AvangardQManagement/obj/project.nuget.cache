@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "t2+aBfW9qVg=",
+  "dgSpecHash": "8j0SwZLmBXE=",
   "success": true,
   "projectFilePath": "E:\\Projects\\ClinicQManage\\AvangardQManagement\\AvangardQManagement.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hamra\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\hamra\\.nuget\\packages\\mediatr\\14.2.0\\mediatr.14.2.0.nupkg.sha512",
     "C:\\Users\\hamra\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\hamra\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\10.0.10\\microsoft.aspnetcore.http.connections.client.10.0.10.nupkg.sha512",
+    "C:\\Users\\hamra\\.nuget\\packages\\microsoft.aspnetcore.signalr.client\\10.0.10\\microsoft.aspnetcore.signalr.client.10.0.10.nupkg.sha512",
+    "C:\\Users\\hamra\\.nuget\\packages\\microsoft.aspnetcore.signalr.client.core\\10.0.10\\microsoft.aspnetcore.signalr.client.core.10.0.10.nupkg.sha512",
     "C:\\Users\\hamra\\.nuget\\packages\\microsoft.build\\17.7.2\\microsoft.build.17.7.2.nupkg.sha512",
     "C:\\Users\\hamra\\.nuget\\packages\\microsoft.build.framework\\17.14.28\\microsoft.build.framework.17.14.28.nupkg.sha512",
     "C:\\Users\\hamra\\.nuget\\packages\\microsoft.build.tasks.core\\17.14.28\\microsoft.build.tasks.core.17.14.28.nupkg.sha512",

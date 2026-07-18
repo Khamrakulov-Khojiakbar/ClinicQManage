@@ -11,6 +11,7 @@ public static class DependencyInjection
         cfg.RegisterServicesFromAssembly(typeof(DependencyInjection).Assembly));
 
 
+
         return services;
     }
 }

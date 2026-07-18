@@ -39,7 +39,6 @@ public class ReceptionRepository : IReceptionRepository
             throw new InvalidOperationException();
         }
 
-
         return reception;
     }
 
