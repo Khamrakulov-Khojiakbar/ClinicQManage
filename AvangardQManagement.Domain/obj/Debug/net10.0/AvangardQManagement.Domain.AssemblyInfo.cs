@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AvangardQManagement.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0fdcdc469510698424055e3aa1a3d4a5f28dbe3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b17225c9f98a90801a4be286f2bfe57998d66b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("AvangardQManagement.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AvangardQManagement.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
