@@ -6,12 +6,16 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+
   <ItemGroup>
+    <PackageReference Include="Mapster" Version="10.0.11" />
     <PackageReference Include="MediatR" Version="14.2.0" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\AvangardQManagement.Domain\AvangardQManagement.Domain.csproj" />
   </ItemGroup>
+
+
 
 </Project>

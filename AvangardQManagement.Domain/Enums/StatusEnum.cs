@@ -10,4 +10,5 @@ public enum StatusEnum
     InProgress = 2,
     Completed = 3,
     Canceled = 4,
+    Called = 5,
 }

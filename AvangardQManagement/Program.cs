@@ -1,31 +1,47 @@
 using AvangardQManagement.Application;
 using AvangardQManagement.Infrastructure;
+using AvangardQManagement.Infrastructure.Hubs;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-
-builder.Services.AddControllers();
-// Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 
 builder.Services.AddInfrastructure(builder.Configuration);
-
 builder.Services.AddApplication();
 
+builder.Services.AddControllers();
+builder.Services.AddEndpointsApiExplorer();
 
+builder.Services.AddSwaggerGen();
+builder.Services.AddSignalR();
+
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("CorsPolicy", policy =>
+    {
+        policy.AllowAnyHeader()
+              .AllowAnyMethod()
+              .SetIsOriginAllowed(_ => true)
+              .AllowCredentials();
+    });
+});
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
-
+    app.UseSwagger();
+    app.UseSwaggerUI();
 }
+
+app.UseCors("CorsPolicy");
+
 
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
 
 app.MapControllers();
+
+app.MapHub<QueueHub>("/hubs/queue");
 
 app.Run();

@@ -2,6 +2,7 @@
 using AvangardQManagement.Domain.Interfaces;
 using AvangardQManagement.Infrastructure.ApplicationDbContext;
 using AvangardQManagement.Infrastructure.Repositories;
+using AvangardQManagement.Infrastructure.Services;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -31,6 +32,8 @@ public static class DependencyInjection
         services.AddScoped<IUserRepository, UserRepository>();
 
         services.AddScoped<IUnitOfWork>(provider => provider.GetRequiredService<AvangardDbContext>());
+
+        services.AddTransient<IQueueNotificationService, QueueNotificationService>();
 
 
 

@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "SxMk4T8uoqM=",
+  "dgSpecHash": "j5VofjBsrVE=",
   "success": true,
   "projectFilePath": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Infrastructure\\AvangardQManagement.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hamra\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\hamra\\.nuget\\packages\\mapster\\10.0.11\\mapster.10.0.11.nupkg.sha512",
+    "C:\\Users\\hamra\\.nuget\\packages\\mapster.core\\10.0.11\\mapster.core.10.0.11.nupkg.sha512",
     "C:\\Users\\hamra\\.nuget\\packages\\mediatr\\14.2.0\\mediatr.14.2.0.nupkg.sha512",
     "C:\\Users\\hamra\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\hamra\\.nuget\\packages\\microsoft.aspnetcore.authorization\\2.3.10\\microsoft.aspnetcore.authorization.2.3.10.nupkg.sha512",

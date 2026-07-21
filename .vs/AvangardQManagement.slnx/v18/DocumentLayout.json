@@ -7,16 +7,64 @@
       "RelativeMoniker": "D:0:0:{08C13EAD-690E-D8C8-1256-622073168FF9}|AvangardQManagement.Application\\AvangardQManagement.Application.csproj|solutionrelative:avangardqmanagement.application\\tickets\\commands\\createticketcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08C13EAD-690E-D8C8-1256-622073168FF9}|AvangardQManagement.Application\\AvangardQManagement.Application.csproj|e:\\projects\\clinicqmanage\\avangardqmanagement.application\\datatransferobject\\receptiondto\\upsertreceptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08C13EAD-690E-D8C8-1256-622073168FF9}|AvangardQManagement.Application\\AvangardQManagement.Application.csproj|solutionrelative:avangardqmanagement.application\\datatransferobject\\receptiondto\\upsertreceptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0BAF7C0B-2F57-2BDC-5DFB-9C69E3B9EDE0}|AvangardQManagement\\AvangardQManagement.csproj|e:\\projects\\clinicqmanage\\avangardqmanagement\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BAF7C0B-2F57-2BDC-5DFB-9C69E3B9EDE0}|AvangardQManagement\\AvangardQManagement.csproj|solutionrelative:avangardqmanagement\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB89D196-802B-81BA-AD55-18ADD47E7FA4}|AvangardQManagement.Infrastructure\\AvangardQManagement.Infrastructure.csproj|e:\\projects\\clinicqmanage\\avangardqmanagement.infrastructure\\repositories\\receptionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB89D196-802B-81BA-AD55-18ADD47E7FA4}|AvangardQManagement.Infrastructure\\AvangardQManagement.Infrastructure.csproj|solutionrelative:avangardqmanagement.infrastructure\\repositories\\receptionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BAF7C0B-2F57-2BDC-5DFB-9C69E3B9EDE0}|AvangardQManagement\\AvangardQManagement.csproj|e:\\projects\\clinicqmanage\\avangardqmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BAF7C0B-2F57-2BDC-5DFB-9C69E3B9EDE0}|AvangardQManagement\\AvangardQManagement.csproj|solutionrelative:avangardqmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{08C13EAD-690E-D8C8-1256-622073168FF9}|AvangardQManagement.Application\\AvangardQManagement.Application.csproj|e:\\projects\\clinicqmanage\\avangardqmanagement.application\\avangardqmanagement.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{08C13EAD-690E-D8C8-1256-622073168FF9}|AvangardQManagement.Application\\AvangardQManagement.Application.csproj|solutionrelative:avangardqmanagement.application\\avangardqmanagement.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{DB89D196-802B-81BA-AD55-18ADD47E7FA4}|AvangardQManagement.Infrastructure\\AvangardQManagement.Infrastructure.csproj|e:\\projects\\clinicqmanage\\avangardqmanagement.infrastructure\\hubs\\queuehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB89D196-802B-81BA-AD55-18ADD47E7FA4}|AvangardQManagement.Infrastructure\\AvangardQManagement.Infrastructure.csproj|solutionrelative:avangardqmanagement.infrastructure\\hubs\\queuehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C13EAD-690E-D8C8-1256-622073168FF9}|AvangardQManagement.Application\\AvangardQManagement.Application.csproj|e:\\projects\\clinicqmanage\\avangardqmanagement.application\\tickets\\commands\\updateticketstatuscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C13EAD-690E-D8C8-1256-622073168FF9}|AvangardQManagement.Application\\AvangardQManagement.Application.csproj|solutionrelative:avangardqmanagement.application\\tickets\\commands\\updateticketstatuscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B409E18-0039-6FA5-A227-BF7FF5B23EF2}|AvangardQManagement.Domain\\AvangardQManagement.Domain.csproj|e:\\projects\\clinicqmanage\\avangardqmanagement.domain\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B409E18-0039-6FA5-A227-BF7FF5B23EF2}|AvangardQManagement.Domain\\AvangardQManagement.Domain.csproj|solutionrelative:avangardqmanagement.domain\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B409E18-0039-6FA5-A227-BF7FF5B23EF2}|AvangardQManagement.Domain\\AvangardQManagement.Domain.csproj|e:\\projects\\clinicqmanage\\avangardqmanagement.domain\\enums\\statusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B409E18-0039-6FA5-A227-BF7FF5B23EF2}|AvangardQManagement.Domain\\AvangardQManagement.Domain.csproj|solutionrelative:avangardqmanagement.domain\\enums\\statusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DB89D196-802B-81BA-AD55-18ADD47E7FA4}|AvangardQManagement.Infrastructure\\AvangardQManagement.Infrastructure.csproj|e:\\projects\\clinicqmanage\\avangardqmanagement.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB89D196-802B-81BA-AD55-18ADD47E7FA4}|AvangardQManagement.Infrastructure\\AvangardQManagement.Infrastructure.csproj|solutionrelative:avangardqmanagement.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB89D196-802B-81BA-AD55-18ADD47E7FA4}|AvangardQManagement.Infrastructure\\AvangardQManagement.Infrastructure.csproj|e:\\projects\\clinicqmanage\\avangardqmanagement.infrastructure\\services\\queuenotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB89D196-802B-81BA-AD55-18ADD47E7FA4}|AvangardQManagement.Infrastructure\\AvangardQManagement.Infrastructure.csproj|solutionrelative:avangardqmanagement.infrastructure\\services\\queuenotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C13EAD-690E-D8C8-1256-622073168FF9}|AvangardQManagement.Application\\AvangardQManagement.Application.csproj|e:\\projects\\clinicqmanage\\avangardqmanagement.application\\common\\interfaces\\iqueuenotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C13EAD-690E-D8C8-1256-622073168FF9}|AvangardQManagement.Application\\AvangardQManagement.Application.csproj|solutionrelative:avangardqmanagement.application\\common\\interfaces\\iqueuenotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C13EAD-690E-D8C8-1256-622073168FF9}|AvangardQManagement.Application\\AvangardQManagement.Application.csproj|e:\\projects\\clinicqmanage\\avangardqmanagement.application\\common\\mappings\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C13EAD-690E-D8C8-1256-622073168FF9}|AvangardQManagement.Application\\AvangardQManagement.Application.csproj|solutionrelative:avangardqmanagement.application\\common\\mappings\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C13EAD-690E-D8C8-1256-622073168FF9}|AvangardQManagement.Application\\AvangardQManagement.Application.csproj|e:\\projects\\clinicqmanage\\avangardqmanagement.application\\datatransferobject\\ticketsdto\\ticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C13EAD-690E-D8C8-1256-622073168FF9}|AvangardQManagement.Application\\AvangardQManagement.Application.csproj|solutionrelative:avangardqmanagement.application\\datatransferobject\\ticketsdto\\ticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C13EAD-690E-D8C8-1256-622073168FF9}|AvangardQManagement.Application\\AvangardQManagement.Application.csproj|e:\\projects\\clinicqmanage\\avangardqmanagement.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C13EAD-690E-D8C8-1256-622073168FF9}|AvangardQManagement.Application\\AvangardQManagement.Application.csproj|solutionrelative:avangardqmanagement.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C13EAD-690E-D8C8-1256-622073168FF9}|AvangardQManagement.Application\\AvangardQManagement.Application.csproj|e:\\projects\\clinicqmanage\\avangardqmanagement.application\\datatransferobject\\receptiondto\\upsertreceptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C13EAD-690E-D8C8-1256-622073168FF9}|AvangardQManagement.Application\\AvangardQManagement.Application.csproj|solutionrelative:avangardqmanagement.application\\datatransferobject\\receptiondto\\upsertreceptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DB89D196-802B-81BA-AD55-18ADD47E7FA4}|AvangardQManagement.Infrastructure\\AvangardQManagement.Infrastructure.csproj|e:\\projects\\clinicqmanage\\avangardqmanagement.infrastructure\\applicationdbcontext\\avangarddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,14 +73,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{08C13EAD-690E-D8C8-1256-622073168FF9}|AvangardQManagement.Application\\AvangardQManagement.Application.csproj|e:\\projects\\clinicqmanage\\avangardqmanagement.application\\common\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08C13EAD-690E-D8C8-1256-622073168FF9}|AvangardQManagement.Application\\AvangardQManagement.Application.csproj|solutionrelative:avangardqmanagement.application\\common\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08C13EAD-690E-D8C8-1256-622073168FF9}|AvangardQManagement.Application\\AvangardQManagement.Application.csproj|e:\\projects\\clinicqmanage\\avangardqmanagement.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08C13EAD-690E-D8C8-1256-622073168FF9}|AvangardQManagement.Application\\AvangardQManagement.Application.csproj|solutionrelative:avangardqmanagement.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0BAF7C0B-2F57-2BDC-5DFB-9C69E3B9EDE0}|AvangardQManagement\\AvangardQManagement.csproj|e:\\projects\\clinicqmanage\\avangardqmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BAF7C0B-2F57-2BDC-5DFB-9C69E3B9EDE0}|AvangardQManagement\\AvangardQManagement.csproj|solutionrelative:avangardqmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8B409E18-0039-6FA5-A227-BF7FF5B23EF2}|AvangardQManagement.Domain\\AvangardQManagement.Domain.csproj|e:\\projects\\clinicqmanage\\avangardqmanagement.domain\\interfaces\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -57,10 +97,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DB89D196-802B-81BA-AD55-18ADD47E7FA4}|AvangardQManagement.Infrastructure\\AvangardQManagement.Infrastructure.csproj|e:\\projects\\clinicqmanage\\avangardqmanagement.infrastructure\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB89D196-802B-81BA-AD55-18ADD47E7FA4}|AvangardQManagement.Infrastructure\\AvangardQManagement.Infrastructure.csproj|solutionrelative:avangardqmanagement.infrastructure\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB89D196-802B-81BA-AD55-18ADD47E7FA4}|AvangardQManagement.Infrastructure\\AvangardQManagement.Infrastructure.csproj|e:\\projects\\clinicqmanage\\avangardqmanagement.infrastructure\\repositories\\receptionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB89D196-802B-81BA-AD55-18ADD47E7FA4}|AvangardQManagement.Infrastructure\\AvangardQManagement.Infrastructure.csproj|solutionrelative:avangardqmanagement.infrastructure\\repositories\\receptionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DB89D196-802B-81BA-AD55-18ADD47E7FA4}|AvangardQManagement.Infrastructure\\AvangardQManagement.Infrastructure.csproj|e:\\projects\\clinicqmanage\\avangardqmanagement.infrastructure\\repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -107,10 +143,6 @@
       "RelativeMoniker": "D:0:0:{8B409E18-0039-6FA5-A227-BF7FF5B23EF2}|AvangardQManagement.Domain\\AvangardQManagement.Domain.csproj|solutionrelative:avangardqmanagement.domain\\models\\reception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B409E18-0039-6FA5-A227-BF7FF5B23EF2}|AvangardQManagement.Domain\\AvangardQManagement.Domain.csproj|e:\\projects\\clinicqmanage\\avangardqmanagement.domain\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B409E18-0039-6FA5-A227-BF7FF5B23EF2}|AvangardQManagement.Domain\\AvangardQManagement.Domain.csproj|solutionrelative:avangardqmanagement.domain\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DB89D196-802B-81BA-AD55-18ADD47E7FA4}|AvangardQManagement.Infrastructure\\AvangardQManagement.Infrastructure.csproj|e:\\projects\\clinicqmanage\\avangardqmanagement.infrastructure\\migrations\\20260706182629_init3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB89D196-802B-81BA-AD55-18ADD47E7FA4}|AvangardQManagement.Infrastructure\\AvangardQManagement.Infrastructure.csproj|solutionrelative:avangardqmanagement.infrastructure\\migrations\\20260706182629_init3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -129,10 +161,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8B409E18-0039-6FA5-A227-BF7FF5B23EF2}|AvangardQManagement.Domain\\AvangardQManagement.Domain.csproj|e:\\projects\\clinicqmanage\\avangardqmanagement.domain\\auth\\rolepermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B409E18-0039-6FA5-A227-BF7FF5B23EF2}|AvangardQManagement.Domain\\AvangardQManagement.Domain.csproj|solutionrelative:avangardqmanagement.domain\\auth\\rolepermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B409E18-0039-6FA5-A227-BF7FF5B23EF2}|AvangardQManagement.Domain\\AvangardQManagement.Domain.csproj|e:\\projects\\clinicqmanage\\avangardqmanagement.domain\\enums\\statusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B409E18-0039-6FA5-A227-BF7FF5B23EF2}|AvangardQManagement.Domain\\AvangardQManagement.Domain.csproj|solutionrelative:avangardqmanagement.domain\\enums\\statusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0BAF7C0B-2F57-2BDC-5DFB-9C69E3B9EDE0}|AvangardQManagement\\AvangardQManagement.csproj|e:\\projects\\clinicqmanage\\avangardqmanagement\\avangardqmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -162,11 +190,206 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "TicketController.cs",
+              "DocumentMoniker": "E:\\Projects\\ClinicQManage\\AvangardQManagement\\Controllers\\TicketController.cs",
+              "RelativeDocumentMoniker": "AvangardQManagement\\Controllers\\TicketController.cs",
+              "ToolTip": "E:\\Projects\\ClinicQManage\\AvangardQManagement\\Controllers\\TicketController.cs",
+              "RelativeToolTip": "AvangardQManagement\\Controllers\\TicketController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T11:22:48.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AvangardQManagement.Application.csproj",
+              "DocumentMoniker": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Application\\AvangardQManagement.Application.csproj",
+              "RelativeDocumentMoniker": "AvangardQManagement.Application\\AvangardQManagement.Application.csproj",
+              "ToolTip": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Application\\AvangardQManagement.Application.csproj",
+              "RelativeToolTip": "AvangardQManagement.Application\\AvangardQManagement.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-16T11:48:39.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "AvangardQManagement.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "AvangardQManagement.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAIBJwCMAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T21:14:12.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StatusEnum.cs",
+              "DocumentMoniker": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Domain\\Enums\\StatusEnum.cs",
+              "RelativeDocumentMoniker": "AvangardQManagement.Domain\\Enums\\StatusEnum.cs",
+              "ToolTip": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Domain\\Enums\\StatusEnum.cs",
+              "RelativeToolTip": "AvangardQManagement.Domain\\Enums\\StatusEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T12:57:54.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Projects\\ClinicQManage\\AvangardQManagement\\Program.cs",
+              "RelativeDocumentMoniker": "AvangardQManagement\\Program.cs",
+              "ToolTip": "E:\\Projects\\ClinicQManage\\AvangardQManagement\\Program.cs",
+              "RelativeToolTip": "AvangardQManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T08:39:41.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReceptionRepository.cs",
+              "DocumentMoniker": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Infrastructure\\Repositories\\ReceptionRepository.cs",
+              "RelativeDocumentMoniker": "AvangardQManagement.Infrastructure\\Repositories\\ReceptionRepository.cs",
+              "ToolTip": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Infrastructure\\Repositories\\ReceptionRepository.cs",
+              "RelativeToolTip": "AvangardQManagement.Infrastructure\\Repositories\\ReceptionRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T12:57:03.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateTicketCommandHandler.cs",
+              "DocumentMoniker": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Application\\Tickets\\Commands\\CreateTicketCommandHandler.cs",
+              "RelativeDocumentMoniker": "AvangardQManagement.Application\\Tickets\\Commands\\CreateTicketCommandHandler.cs",
+              "ToolTip": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Application\\Tickets\\Commands\\CreateTicketCommandHandler.cs",
+              "RelativeToolTip": "AvangardQManagement.Application\\Tickets\\Commands\\CreateTicketCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T13:04:04.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateTicketStatusCommandHandler.cs",
+              "DocumentMoniker": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Application\\Tickets\\Commands\\UpdateTicketStatusCommandHandler.cs",
+              "RelativeDocumentMoniker": "AvangardQManagement.Application\\Tickets\\Commands\\UpdateTicketStatusCommandHandler.cs",
+              "ToolTip": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Application\\Tickets\\Commands\\UpdateTicketStatusCommandHandler.cs",
+              "RelativeToolTip": "AvangardQManagement.Application\\Tickets\\Commands\\UpdateTicketStatusCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T10:46:12.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QueueHub.cs",
+              "DocumentMoniker": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Infrastructure\\Hubs\\QueueHub.cs",
+              "RelativeDocumentMoniker": "AvangardQManagement.Infrastructure\\Hubs\\QueueHub.cs",
+              "ToolTip": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Infrastructure\\Hubs\\QueueHub.cs",
+              "RelativeToolTip": "AvangardQManagement.Infrastructure\\Hubs\\QueueHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T10:55:19.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Domain\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "AvangardQManagement.Domain\\Models\\Ticket.cs",
+              "ToolTip": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Domain\\Models\\Ticket.cs",
+              "RelativeToolTip": "AvangardQManagement.Domain\\Models\\Ticket.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T12:55:39.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QueueNotificationService.cs",
+              "DocumentMoniker": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Infrastructure\\Services\\QueueNotificationService.cs",
+              "RelativeDocumentMoniker": "AvangardQManagement.Infrastructure\\Services\\QueueNotificationService.cs",
+              "ToolTip": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Infrastructure\\Services\\QueueNotificationService.cs",
+              "RelativeToolTip": "AvangardQManagement.Infrastructure\\Services\\QueueNotificationService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBoAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T10:59:28.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IQueueNotificationService.cs",
+              "DocumentMoniker": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Application\\Common\\Interfaces\\IQueueNotificationService.cs",
+              "RelativeDocumentMoniker": "AvangardQManagement.Application\\Common\\Interfaces\\IQueueNotificationService.cs",
+              "ToolTip": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Application\\Common\\Interfaces\\IQueueNotificationService.cs",
+              "RelativeToolTip": "AvangardQManagement.Application\\Common\\Interfaces\\IQueueNotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T10:57:12.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MappingConfig.cs",
+              "DocumentMoniker": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Application\\Common\\Mappings\\MappingConfig.cs",
+              "RelativeDocumentMoniker": "AvangardQManagement.Application\\Common\\Mappings\\MappingConfig.cs",
+              "ToolTip": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Application\\Common\\Mappings\\MappingConfig.cs",
+              "RelativeToolTip": "AvangardQManagement.Application\\Common\\Mappings\\MappingConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T09:07:19.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TicketDto.cs",
+              "DocumentMoniker": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Application\\DataTransferObject\\TicketsDTO\\TicketDto.cs",
+              "RelativeDocumentMoniker": "AvangardQManagement.Application\\DataTransferObject\\TicketsDTO\\TicketDto.cs",
+              "ToolTip": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Application\\DataTransferObject\\TicketsDTO\\TicketDto.cs",
+              "RelativeToolTip": "AvangardQManagement.Application\\DataTransferObject\\TicketsDTO\\TicketDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T09:32:19.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Application\\Common\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "AvangardQManagement.Application\\Common\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Application\\Common\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "AvangardQManagement.Application\\Common\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T12:35:25.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "UpsertReceptionDto.cs",
               "DocumentMoniker": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Application\\DataTransferObject\\ReceptionDTO\\UpsertReceptionDto.cs",
               "RelativeDocumentMoniker": "AvangardQManagement.Application\\DataTransferObject\\ReceptionDTO\\UpsertReceptionDto.cs",
@@ -179,56 +402,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CreateTicketCommandHandler.cs",
-              "DocumentMoniker": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Application\\Tickets\\Commands\\CreateTicketCommandHandler.cs",
-              "RelativeDocumentMoniker": "AvangardQManagement.Application\\Tickets\\Commands\\CreateTicketCommandHandler.cs",
-              "ToolTip": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Application\\Tickets\\Commands\\CreateTicketCommandHandler.cs",
-              "RelativeToolTip": "AvangardQManagement.Application\\Tickets\\Commands\\CreateTicketCommandHandler.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-16T13:04:04.203Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Application\\Common\\Interfaces\\IUnitOfWork.cs",
-              "RelativeDocumentMoniker": "AvangardQManagement.Application\\Common\\Interfaces\\IUnitOfWork.cs",
-              "ToolTip": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Application\\Common\\Interfaces\\IUnitOfWork.cs",
-              "RelativeToolTip": "AvangardQManagement.Application\\Common\\Interfaces\\IUnitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-16T12:35:25.956Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Application\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "AvangardQManagement.Application\\DependencyInjection.cs",
               "ToolTip": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Application\\DependencyInjection.cs",
               "RelativeToolTip": "AvangardQManagement.Application\\DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-16T12:02:22.853Z"
+              "WhenOpened": "2026-07-16T12:02:22.853Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AvangardQManagement.Application.csproj",
-              "DocumentMoniker": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Application\\AvangardQManagement.Application.csproj",
-              "RelativeDocumentMoniker": "AvangardQManagement.Application\\AvangardQManagement.Application.csproj",
-              "ToolTip": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Application\\AvangardQManagement.Application.csproj",
-              "RelativeToolTip": "AvangardQManagement.Application\\AvangardQManagement.Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-07-16T11:48:39.228Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 19,
               "Title": "ITicketRepository.cs",
               "DocumentMoniker": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Domain\\Interfaces\\ITicketRepository.cs",
               "RelativeDocumentMoniker": "AvangardQManagement.Domain\\Interfaces\\ITicketRepository.cs",
@@ -236,11 +423,12 @@
               "RelativeToolTip": "AvangardQManagement.Domain\\Interfaces\\ITicketRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-05T12:05:50.339Z"
+              "WhenOpened": "2026-07-05T12:05:50.339Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 18,
               "Title": "IRoleRepository.cs",
               "DocumentMoniker": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Domain\\Interfaces\\IRoleRepository.cs",
               "RelativeDocumentMoniker": "AvangardQManagement.Domain\\Interfaces\\IRoleRepository.cs",
@@ -248,23 +436,12 @@
               "RelativeToolTip": "AvangardQManagement.Domain\\Interfaces\\IRoleRepository.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAQwAkAAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-09T11:41:01.735Z"
+              "WhenOpened": "2026-07-09T11:41:01.735Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Infrastructure\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "AvangardQManagement.Infrastructure\\DependencyInjection.cs",
-              "ToolTip": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Infrastructure\\DependencyInjection.cs",
-              "RelativeToolTip": "AvangardQManagement.Infrastructure\\DependencyInjection.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABUAAABtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T21:14:12.145Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 16,
               "Title": "AvangardDbContext.cs",
               "DocumentMoniker": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Infrastructure\\ApplicationDbContext\\AvangardDbContext.cs",
               "RelativeDocumentMoniker": "AvangardQManagement.Infrastructure\\ApplicationDbContext\\AvangardDbContext.cs",
@@ -272,11 +449,12 @@
               "RelativeToolTip": "AvangardQManagement.Infrastructure\\ApplicationDbContext\\AvangardDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T20:18:51.508Z"
+              "WhenOpened": "2026-07-04T20:18:51.508Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 20,
               "Title": "IPermissionRepository.cs",
               "DocumentMoniker": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Domain\\Interfaces\\IPermissionRepository.cs",
               "RelativeDocumentMoniker": "AvangardQManagement.Domain\\Interfaces\\IPermissionRepository.cs",
@@ -284,11 +462,12 @@
               "RelativeToolTip": "AvangardQManagement.Domain\\Interfaces\\IPermissionRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-09T11:38:47.395Z"
+              "WhenOpened": "2026-07-09T11:38:47.395Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 21,
               "Title": "TicketRepository.cs",
               "DocumentMoniker": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Infrastructure\\Repositories\\TicketRepository.cs",
               "RelativeDocumentMoniker": "AvangardQManagement.Infrastructure\\Repositories\\TicketRepository.cs",
@@ -296,11 +475,12 @@
               "RelativeToolTip": "AvangardQManagement.Infrastructure\\Repositories\\TicketRepository.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAcwBYAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-09T12:24:11.731Z"
+              "WhenOpened": "2026-07-09T12:24:11.731Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 23,
               "Title": "RoleRepository.cs",
               "DocumentMoniker": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Infrastructure\\Repositories\\RoleRepository.cs",
               "RelativeDocumentMoniker": "AvangardQManagement.Infrastructure\\Repositories\\RoleRepository.cs",
@@ -308,47 +488,25 @@
               "RelativeToolTip": "AvangardQManagement.Infrastructure\\Repositories\\RoleRepository.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAYwB0AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-09T13:06:53.905Z"
+              "WhenOpened": "2026-07-09T13:06:53.905Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Projects\\ClinicQManage\\AvangardQManagement\\Program.cs",
-              "RelativeDocumentMoniker": "AvangardQManagement\\Program.cs",
-              "ToolTip": "E:\\Projects\\ClinicQManage\\AvangardQManagement\\Program.cs",
-              "RelativeToolTip": "AvangardQManagement\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-05T08:39:41.08Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 22,
               "Title": "PermissionRepository.cs",
               "DocumentMoniker": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Infrastructure\\Repositories\\PermissionRepository.cs",
               "RelativeDocumentMoniker": "AvangardQManagement.Infrastructure\\Repositories\\PermissionRepository.cs",
               "ToolTip": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Infrastructure\\Repositories\\PermissionRepository.cs",
               "RelativeToolTip": "AvangardQManagement.Infrastructure\\Repositories\\PermissionRepository.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAswCsAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAowCsAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-09T15:00:51.512Z"
+              "WhenOpened": "2026-07-09T15:00:51.512Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ReceptionRepository.cs",
-              "DocumentMoniker": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Infrastructure\\Repositories\\ReceptionRepository.cs",
-              "RelativeDocumentMoniker": "AvangardQManagement.Infrastructure\\Repositories\\ReceptionRepository.cs",
-              "ToolTip": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Infrastructure\\Repositories\\ReceptionRepository.cs",
-              "RelativeToolTip": "AvangardQManagement.Infrastructure\\Repositories\\ReceptionRepository.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAywDMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-09T12:57:03.293Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 24,
               "Title": "RoomRepository.cs",
               "DocumentMoniker": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Infrastructure\\Repositories\\RoomRepository.cs",
               "RelativeDocumentMoniker": "AvangardQManagement.Infrastructure\\Repositories\\RoomRepository.cs",
@@ -356,11 +514,12 @@
               "RelativeToolTip": "AvangardQManagement.Infrastructure\\Repositories\\RoomRepository.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAuwDAAAABlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-09T12:41:12.563Z"
+              "WhenOpened": "2026-07-09T12:41:12.563Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 25,
               "Title": "IRoomRepository.cs",
               "DocumentMoniker": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Domain\\Interfaces\\IRoomRepository.cs",
               "RelativeDocumentMoniker": "AvangardQManagement.Domain\\Interfaces\\IRoomRepository.cs",
@@ -368,11 +527,12 @@
               "RelativeToolTip": "AvangardQManagement.Domain\\Interfaces\\IRoomRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-06T18:38:35.701Z"
+              "WhenOpened": "2026-07-06T18:38:35.701Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 26,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Infrastructure\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "AvangardQManagement.Infrastructure\\Repositories\\UserRepository.cs",
@@ -380,11 +540,12 @@
               "RelativeToolTip": "AvangardQManagement.Infrastructure\\Repositories\\UserRepository.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAwwBcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-09T12:08:17.578Z"
+              "WhenOpened": "2026-07-09T12:08:17.578Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 28,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Domain\\Interfaces\\IUserRepository.cs",
               "RelativeDocumentMoniker": "AvangardQManagement.Domain\\Interfaces\\IUserRepository.cs",
@@ -392,23 +553,25 @@
               "RelativeToolTip": "AvangardQManagement.Domain\\Interfaces\\IUserRepository.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAgwA8AAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-05T09:25:25.699Z"
+              "WhenOpened": "2026-07-05T09:25:25.699Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 27,
               "Title": "Room.cs",
               "DocumentMoniker": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Domain\\Models\\Room.cs",
               "RelativeDocumentMoniker": "AvangardQManagement.Domain\\Models\\Room.cs",
               "ToolTip": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Domain\\Models\\Room.cs",
               "RelativeToolTip": "AvangardQManagement.Domain\\Models\\Room.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T08:47:59.359Z"
+              "WhenOpened": "2026-07-04T08:47:59.359Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 31,
               "Title": "IReceptionRepository.cs",
               "DocumentMoniker": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Domain\\Interfaces\\IReceptionRepository.cs",
               "RelativeDocumentMoniker": "AvangardQManagement.Domain\\Interfaces\\IReceptionRepository.cs",
@@ -416,11 +579,12 @@
               "RelativeToolTip": "AvangardQManagement.Domain\\Interfaces\\IReceptionRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-09T10:55:11.898Z"
+              "WhenOpened": "2026-07-09T10:55:11.898Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 29,
               "Title": "User.cs",
               "DocumentMoniker": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Domain\\Models\\User.cs",
               "RelativeDocumentMoniker": "AvangardQManagement.Domain\\Models\\User.cs",
@@ -428,11 +592,12 @@
               "RelativeToolTip": "AvangardQManagement.Domain\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T08:46:30.62Z"
+              "WhenOpened": "2026-07-04T08:46:30.62Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 32,
               "Title": "Permission.cs",
               "DocumentMoniker": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Domain\\Auth\\Permission.cs",
               "RelativeDocumentMoniker": "AvangardQManagement.Domain\\Auth\\Permission.cs",
@@ -440,11 +605,12 @@
               "RelativeToolTip": "AvangardQManagement.Domain\\Auth\\Permission.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T20:06:27.585Z"
+              "WhenOpened": "2026-07-04T20:06:27.585Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 33,
               "Title": "Role.cs",
               "DocumentMoniker": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Domain\\Auth\\Role.cs",
               "RelativeDocumentMoniker": "AvangardQManagement.Domain\\Auth\\Role.cs",
@@ -452,11 +618,12 @@
               "RelativeToolTip": "AvangardQManagement.Domain\\Auth\\Role.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T20:06:39.012Z"
+              "WhenOpened": "2026-07-04T20:06:39.012Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 30,
               "Title": "AvangardQManagement.Infrastructure.csproj",
               "DocumentMoniker": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Infrastructure\\AvangardQManagement.Infrastructure.csproj",
               "RelativeDocumentMoniker": "AvangardQManagement.Infrastructure\\AvangardQManagement.Infrastructure.csproj",
@@ -464,11 +631,12 @@
               "RelativeToolTip": "AvangardQManagement.Infrastructure\\AvangardQManagement.Infrastructure.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-07-04T20:16:50.165Z"
+              "WhenOpened": "2026-07-04T20:16:50.165Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 34,
               "Title": "Reception.cs",
               "DocumentMoniker": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Domain\\Models\\Reception.cs",
               "RelativeDocumentMoniker": "AvangardQManagement.Domain\\Models\\Reception.cs",
@@ -476,23 +644,12 @@
               "RelativeToolTip": "AvangardQManagement.Domain\\Models\\Reception.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T12:16:38.727Z"
+              "WhenOpened": "2026-07-04T12:16:38.727Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Ticket.cs",
-              "DocumentMoniker": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Domain\\Models\\Ticket.cs",
-              "RelativeDocumentMoniker": "AvangardQManagement.Domain\\Models\\Ticket.cs",
-              "ToolTip": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Domain\\Models\\Ticket.cs",
-              "RelativeToolTip": "AvangardQManagement.Domain\\Models\\Ticket.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAIwA0AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T12:55:39.886Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 35,
               "Title": "20260706182629_init3.cs",
               "DocumentMoniker": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Infrastructure\\Migrations\\20260706182629_init3.cs",
               "RelativeDocumentMoniker": "AvangardQManagement.Infrastructure\\Migrations\\20260706182629_init3.cs",
@@ -500,23 +657,25 @@
               "RelativeToolTip": "AvangardQManagement.Infrastructure\\Migrations\\20260706182629_init3.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-06T18:26:29.775Z"
+              "WhenOpened": "2026-07-06T18:26:29.775Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 36,
               "Title": "20260706182501_init2.cs",
               "DocumentMoniker": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Infrastructure\\Migrations\\20260706182501_init2.cs",
               "RelativeDocumentMoniker": "AvangardQManagement.Infrastructure\\Migrations\\20260706182501_init2.cs",
               "ToolTip": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Infrastructure\\Migrations\\20260706182501_init2.cs",
               "RelativeToolTip": "AvangardQManagement.Infrastructure\\Migrations\\20260706182501_init2.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwBIAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-06T18:25:01.718Z"
+              "WhenOpened": "2026-07-06T18:25:01.718Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 37,
               "Title": "AvangardDbContextModelSnapshot.cs",
               "DocumentMoniker": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Infrastructure\\Migrations\\AvangardDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "AvangardQManagement.Infrastructure\\Migrations\\AvangardDbContextModelSnapshot.cs",
@@ -524,11 +683,12 @@
               "RelativeToolTip": "AvangardQManagement.Infrastructure\\Migrations\\AvangardDbContextModelSnapshot.cs",
               "ViewState": "AgIAAPQAAAAAAAAAAAAgwBIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-06T18:25:20.489Z"
+              "WhenOpened": "2026-07-06T18:25:20.489Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 44,
               "Title": "20260705090423_init1.cs",
               "DocumentMoniker": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Infrastructure\\Migrations\\20260705090423_init1.cs",
               "RelativeDocumentMoniker": "AvangardQManagement.Infrastructure\\Migrations\\20260705090423_init1.cs",
@@ -536,11 +696,12 @@
               "RelativeToolTip": "AvangardQManagement.Infrastructure\\Migrations\\20260705090423_init1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-05T09:04:23.296Z"
+              "WhenOpened": "2026-07-05T09:04:23.296Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 39,
               "Title": "RolePermission.cs",
               "DocumentMoniker": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Domain\\Auth\\RolePermission.cs",
               "RelativeDocumentMoniker": "AvangardQManagement.Domain\\Auth\\RolePermission.cs",
@@ -548,23 +709,12 @@
               "RelativeToolTip": "AvangardQManagement.Domain\\Auth\\RolePermission.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T20:06:44.656Z"
+              "WhenOpened": "2026-07-04T20:06:44.656Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "StatusEnum.cs",
-              "DocumentMoniker": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Domain\\Enums\\StatusEnum.cs",
-              "RelativeDocumentMoniker": "AvangardQManagement.Domain\\Enums\\StatusEnum.cs",
-              "ToolTip": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Domain\\Enums\\StatusEnum.cs",
-              "RelativeToolTip": "AvangardQManagement.Domain\\Enums\\StatusEnum.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T12:57:54.493Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 38,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\Projects\\ClinicQManage\\AvangardQManagement\\appsettings.json",
               "RelativeDocumentMoniker": "AvangardQManagement\\appsettings.json",
@@ -572,11 +722,12 @@
               "RelativeToolTip": "AvangardQManagement\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-07-05T08:32:51.771Z"
+              "WhenOpened": "2026-07-05T08:32:51.771Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 40,
               "Title": "AvangardQManagement.csproj",
               "DocumentMoniker": "E:\\Projects\\ClinicQManage\\AvangardQManagement\\AvangardQManagement.csproj",
               "RelativeDocumentMoniker": "AvangardQManagement\\AvangardQManagement.csproj",
@@ -584,11 +735,12 @@
               "RelativeToolTip": "AvangardQManagement\\AvangardQManagement.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-07-04T20:16:28.05Z"
+              "WhenOpened": "2026-07-04T20:16:28.05Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 41,
               "Title": "UserRole.cs",
               "DocumentMoniker": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Domain\\Auth\\UserRole.cs",
               "RelativeDocumentMoniker": "AvangardQManagement.Domain\\Auth\\UserRole.cs",
@@ -596,11 +748,12 @@
               "RelativeToolTip": "AvangardQManagement.Domain\\Auth\\UserRole.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T20:06:48.013Z"
+              "WhenOpened": "2026-07-04T20:06:48.013Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 42,
               "Title": "AvangardQManagement.Domain.csproj",
               "DocumentMoniker": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Domain\\AvangardQManagement.Domain.csproj",
               "RelativeDocumentMoniker": "AvangardQManagement.Domain\\AvangardQManagement.Domain.csproj",
@@ -608,11 +761,12 @@
               "RelativeToolTip": "AvangardQManagement.Domain\\AvangardQManagement.Domain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-07-04T11:43:28.592Z"
+              "WhenOpened": "2026-07-04T11:43:28.592Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 43,
               "Title": "Class1.cs",
               "DocumentMoniker": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Infrastructure\\Class1.cs",
               "RelativeDocumentMoniker": "AvangardQManagement.Infrastructure\\Class1.cs",
@@ -620,7 +774,8 @@
               "RelativeToolTip": "AvangardQManagement.Infrastructure\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T08:32:53.054Z"
+              "WhenOpened": "2026-07-04T08:32:53.054Z",
+              "EditorCaption": ""
             }
           ]
         }

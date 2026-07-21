@@ -10,6 +10,8 @@ public class Ticket
     public Guid Id { get; set; } = Guid.NewGuid();
     public string TicketNumber { get; set; } = string.Empty;
     public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
+    public DateTime CalledAt { get; set; } = DateTime.UtcNow;
+    public DateTime CompletedAt { get; set; } = DateTime.UtcNow;
     public StatusEnum Status { get; set; } = StatusEnum.Waiting;
     public decimal TotalPrice { get; set; }
 

@@ -1,5 +1,37 @@
 [
   {
+    "ContainingType": "AvangardQManagement.Controllers.TicketController",
+    "Method": "CreateTicket",
+    "RelativePath": "createticket",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "AvangardQManagement.Application.DataTransferObject.TicketsDTO.CreateTicketDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AvangardQManagement.Controllers.TicketController",
+    "Method": "UpdateTicket",
+    "RelativePath": "updateticket",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "AvangardQManagement.Application.DataTransferObject.TicketsDTO.UpdateTicketStatusDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "AvangardQManagement.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",
