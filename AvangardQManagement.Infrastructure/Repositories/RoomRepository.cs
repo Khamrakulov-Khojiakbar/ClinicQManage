@@ -46,6 +46,16 @@ public class RoomRepository : IRoomRepository
             .FirstOrDefaultAsync(r => r.Id == id);
     }
 
+    public async Task<Room?> GetByNameAsync(string roomName, CancellationToken cancellationToken = default)
+    {
+        return await _dbContext.Rooms.FirstOrDefaultAsync(rn => rn.RoomName == roomName);
+    }
+
+    public async Task<Room?> GetByNumberAsync(int roomNumber, CancellationToken cancellationToken = default)
+    {
+        return await _dbContext.Rooms.FirstOrDefaultAsync(room => room.RoomNumber == roomNumber);
+    }
+
     public async Task<Room?> GetRoomByUser(Guid userId, CancellationToken cancellationToken = default)
     {
         return await _dbContext.Rooms

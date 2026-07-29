@@ -9,6 +9,8 @@ public interface IRoomRepository
 {
     Task<Room?> GetByIdAsync(int id, CancellationToken cancellationToken = default);
     Task<Room?> GetRoomByUser(Guid userId, CancellationToken cancellationToken = default);
+    Task<Room?> GetByNameAsync(string roomName, CancellationToken cancellationToken = default);
+    Task<Room?> GetByNumberAsync(int roomNumber, CancellationToken cancellationToken = default);
 
     Task<IEnumerable<Room>> GetAllAsync(CancellationToken cancellationToken = default);
 

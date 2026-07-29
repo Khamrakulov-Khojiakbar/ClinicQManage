@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AvangardQManagement.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5109853bd9f77e42733835b3c85e5d7ca73d3df8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+182f16e490169cb0467e78a16decd547aeb41108")]
 [assembly: System.Reflection.AssemblyProductAttribute("AvangardQManagement.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AvangardQManagement.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

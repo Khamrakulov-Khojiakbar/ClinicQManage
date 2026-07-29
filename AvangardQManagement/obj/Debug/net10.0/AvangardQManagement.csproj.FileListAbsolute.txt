@@ -369,7 +369,6 @@ E:\Projects\ClinicQManage\AvangardQManagement\obj\Debug\net10.0\staticwebassets.
 E:\Projects\ClinicQManage\AvangardQManagement\obj\Debug\net10.0\staticwebassets.development.json
 E:\Projects\ClinicQManage\AvangardQManagement\obj\Debug\net10.0\staticwebassets.build.endpoints.json
 E:\Projects\ClinicQManage\AvangardQManagement\obj\Debug\net10.0\swae.build.ex.cache
-E:\Projects\ClinicQManage\AvangardQManagement\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
 E:\Projects\ClinicQManage\AvangardQManagement\obj\Debug\net10.0\Avangard.40E528C0.Up2Date
 E:\Projects\ClinicQManage\AvangardQManagement\obj\Debug\net10.0\AvangardQManagement.dll
 E:\Projects\ClinicQManage\AvangardQManagement\obj\Debug\net10.0\refint\AvangardQManagement.dll

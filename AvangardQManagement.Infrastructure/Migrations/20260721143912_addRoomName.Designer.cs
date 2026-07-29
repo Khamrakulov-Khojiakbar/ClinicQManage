@@ -3,6 +3,7 @@ using System;
 using AvangardQManagement.Infrastructure.ApplicationDbContext;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 
@@ -11,9 +12,11 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace AvangardQManagement.Infrastructure.Migrations
 {
     [DbContext(typeof(AvangardDbContext))]
-    partial class AvangardDbContextModelSnapshot : ModelSnapshot
+    [Migration("20260721143912_addRoomName")]
+    partial class addRoomName
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
