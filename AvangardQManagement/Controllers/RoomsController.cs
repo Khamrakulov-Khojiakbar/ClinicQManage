@@ -2,6 +2,8 @@
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using AvangardQManagement.Application.Rooms.Queries;
+using AvangardQManagement.Application.DataTransferObject.RoomDTO;
+using AvangardQManagement.Application.Rooms.Commands.CreateRooom;
 
 namespace AvangardQManagement.Controllers;
 
@@ -21,5 +23,12 @@ public class RoomsController : ControllerBase
     {
         var result = await mediator.Send(new GetAllRoomsQuery(), cancellationToken);
             return Ok(result);
+    }
+
+    [HttpPost]
+    public async Task<IActionResult> CreateRoom(RoomDto roomDto, CancellationToken cancellationToken)
+    {
+        var result = await mediator.Send(new CreateRoomCommand(roomDto.RoomNumber, roomDto.RoomName), cancellationToken);
+        return Ok(result);
     }
 }
