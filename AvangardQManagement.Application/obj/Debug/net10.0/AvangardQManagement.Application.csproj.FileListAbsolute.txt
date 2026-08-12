@@ -25,3 +25,8 @@ E:\Projects\ClinicQManage\AvangardQManagement.Application\obj\Debug\net10.0\Avan
 E:\Projects\ClinicQManage\AvangardQManagement.Application\obj\Debug\net10.0\refint\AvangardQManagement.Application.dll
 E:\Projects\ClinicQManage\AvangardQManagement.Application\obj\Debug\net10.0\AvangardQManagement.Application.pdb
 E:\Projects\ClinicQManage\AvangardQManagement.Application\obj\Debug\net10.0\ref\AvangardQManagement.Application.dll
+D:\Dev\AvangardQManagement\AvangardQManagement.Application\bin\Debug\net10.0\AvangardQManagement.Domain.dll
+D:\Dev\AvangardQManagement\AvangardQManagement.Application\bin\Debug\net10.0\AvangardQManagement.Domain.pdb
+D:\Dev\AvangardQManagement\AvangardQManagement.Application\obj\Debug\net10.0\AvangardQManagement.Application.csproj.AssemblyReference.cache
+D:\Dev\AvangardQManagement\AvangardQManagement.Application\obj\Debug\net10.0\AvangardQManagement.Application.sourcelink.json
+D:\Dev\AvangardQManagement\AvangardQManagement.Application\obj\Debug\net10.0\Avangard.C515480A.Up2Date

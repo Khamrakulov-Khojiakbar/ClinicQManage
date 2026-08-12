@@ -3837,11 +3837,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projects\\ClinicQManage\\AvangardQManagement\\AvangardQManagement.csproj",
+      "projectUniqueName": "D:\\Dev\\AvangardQManagement\\AvangardQManagement\\AvangardQManagement.csproj",
       "projectName": "AvangardQManagement",
-      "projectPath": "E:\\Projects\\ClinicQManage\\AvangardQManagement\\AvangardQManagement.csproj",
+      "projectPath": "D:\\Dev\\AvangardQManagement\\AvangardQManagement\\AvangardQManagement.csproj",
       "packagesPath": "C:\\Users\\hamra\\.nuget\\packages\\",
-      "outputPath": "E:\\Projects\\ClinicQManage\\AvangardQManagement\\obj\\",
+      "outputPath": "D:\\Dev\\AvangardQManagement\\AvangardQManagement\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3864,8 +3864,8 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "E:\\Projects\\ClinicQManage\\AvangardQManagement.Infrastructure\\AvangardQManagement.Infrastructure.csproj": {
-              "projectPath": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Infrastructure\\AvangardQManagement.Infrastructure.csproj"
+            "D:\\Dev\\AvangardQManagement\\AvangardQManagement.Infrastructure\\AvangardQManagement.Infrastructure.csproj": {
+              "projectPath": "D:\\Dev\\AvangardQManagement\\AvangardQManagement.Infrastructure\\AvangardQManagement.Infrastructure.csproj"
             }
           }
         }
@@ -3880,7 +3880,7 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.400"
+      "SdkAnalysisLevel": "10.0.300"
     },
     "frameworks": {
       "net10.0": {
@@ -3917,7 +3917,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400-preview.0.26322.102/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.302/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",

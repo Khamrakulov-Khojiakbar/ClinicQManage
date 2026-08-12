@@ -1,5 +1,7 @@
 ﻿using AvangardQManagement.Application.DataTransferObject.TicketsDTO;
+using AvangardQManagement.Application.Rooms.Queries;
 using AvangardQManagement.Application.Tickets.Commands;
+using AvangardQManagement.Application.Tickets.Queries;
 using Mapster;
 using MediatR;
 using Microsoft.AspNetCore.Http;
@@ -17,6 +19,14 @@ namespace AvangardQManagement.Controllers
         {
             _mediator = mediator;
         }
+
+        [HttpGet("/getall-tickets")]
+        public async Task<IActionResult> GetAllTickets(CancellationToken cancellationToken)
+        {
+            var result = await _mediator.Send(new GetAllTicketsQuery(), cancellationToken);
+            return Ok(result);
+        }
+
 
         [HttpPost("/createticket")]
         public async Task<IActionResult> CreateTicket([FromBody] CreateTicketDto dto, CancellationToken cancellationToken)

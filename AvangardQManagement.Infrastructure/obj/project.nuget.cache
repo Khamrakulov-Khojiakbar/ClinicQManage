@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j5VofjBsrVE=",
+  "dgSpecHash": "6AlEwFZZwZU=",
   "success": true,
-  "projectFilePath": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Infrastructure\\AvangardQManagement.Infrastructure.csproj",
+  "projectFilePath": "D:\\Dev\\AvangardQManagement\\AvangardQManagement.Infrastructure\\AvangardQManagement.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hamra\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\hamra\\.nuget\\packages\\mapster\\10.0.11\\mapster.10.0.11.nupkg.sha512",

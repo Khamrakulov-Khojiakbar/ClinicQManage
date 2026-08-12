@@ -37,3 +37,4 @@ E:\Projects\ClinicQManage\AvangardQManagement.Infrastructure\obj\Debug\net10.0\r
 E:\Projects\ClinicQManage\AvangardQManagement.Infrastructure\obj\Debug\net10.0\AvangardQManagement.Infrastructure.pdb
 E:\Projects\ClinicQManage\AvangardQManagement.Infrastructure\obj\Debug\net10.0\AvangardQManagement.Infrastructure.genruntimeconfig.cache
 E:\Projects\ClinicQManage\AvangardQManagement.Infrastructure\obj\Debug\net10.0\ref\AvangardQManagement.Infrastructure.dll
+D:\Dev\AvangardQManagement\AvangardQManagement.Infrastructure\obj\Debug\net10.0\AvangardQManagement.Infrastructure.sourcelink.json

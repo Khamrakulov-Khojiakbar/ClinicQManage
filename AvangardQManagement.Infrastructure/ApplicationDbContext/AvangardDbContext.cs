@@ -40,6 +40,11 @@ public class AvangardDbContext : DbContext, IUnitOfWork
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         base.OnModelCreating(modelBuilder);
+
+        modelBuilder.Entity<Reception>().ToTable("receptions");
+        modelBuilder.Entity<Room>().ToTable("tables");
+        modelBuilder.Entity<Ticket>().ToTable("tickets");
+
         
         modelBuilder.Entity<RolePermission>()
             .HasKey(rp => new {rp.RoleId, rp.PermissionId});

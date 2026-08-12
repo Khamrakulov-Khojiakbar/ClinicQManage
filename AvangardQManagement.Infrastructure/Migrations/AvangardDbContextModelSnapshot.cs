@@ -108,7 +108,7 @@ namespace AvangardQManagement.Infrastructure.Migrations
 
                     b.HasIndex("UserId");
 
-                    b.ToTable("Receptions");
+                    b.ToTable("receptions", (string)null);
                 });
 
             modelBuilder.Entity("AvangardQManagement.Domain.Models.Room", b =>
@@ -128,7 +128,7 @@ namespace AvangardQManagement.Infrastructure.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Rooms");
+                    b.ToTable("tables", (string)null);
                 });
 
             modelBuilder.Entity("AvangardQManagement.Domain.Models.Ticket", b =>
@@ -174,7 +174,7 @@ namespace AvangardQManagement.Infrastructure.Migrations
 
                     b.HasIndex("UserId");
 
-                    b.ToTable("Tickets");
+                    b.ToTable("tickets", (string)null);
                 });
 
             modelBuilder.Entity("AvangardQManagement.Domain.Models.User", b =>

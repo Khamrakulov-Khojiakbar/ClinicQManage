@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ghKIbh2yZO0=",
+  "dgSpecHash": "vk/JIcvDXi0=",
   "success": true,
-  "projectFilePath": "E:\\Projects\\ClinicQManage\\AvangardQManagement.Application\\AvangardQManagement.Application.csproj",
+  "projectFilePath": "D:\\Dev\\AvangardQManagement\\AvangardQManagement.Application\\AvangardQManagement.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hamra\\.nuget\\packages\\mapster\\10.0.11\\mapster.10.0.11.nupkg.sha512",
     "C:\\Users\\hamra\\.nuget\\packages\\mapster.core\\10.0.11\\mapster.core.10.0.11.nupkg.sha512",

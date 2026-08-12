@@ -21,3 +21,4 @@ E:\Projects\ClinicQManage\AvangardQManagement.Domain\obj\Debug\net10.0\AvangardQ
 E:\Projects\ClinicQManage\AvangardQManagement.Domain\obj\Debug\net10.0\refint\AvangardQManagement.Domain.dll
 E:\Projects\ClinicQManage\AvangardQManagement.Domain\obj\Debug\net10.0\AvangardQManagement.Domain.pdb
 E:\Projects\ClinicQManage\AvangardQManagement.Domain\obj\Debug\net10.0\ref\AvangardQManagement.Domain.dll
+D:\Dev\AvangardQManagement\AvangardQManagement.Domain\obj\Debug\net10.0\AvangardQManagement.Domain.sourcelink.json
