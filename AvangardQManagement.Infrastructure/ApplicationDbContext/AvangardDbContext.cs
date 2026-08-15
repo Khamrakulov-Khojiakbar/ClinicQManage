@@ -44,6 +44,11 @@ public class AvangardDbContext : DbContext, IUnitOfWork
         modelBuilder.Entity<Reception>().ToTable("receptions");
         modelBuilder.Entity<Room>().ToTable("tables");
         modelBuilder.Entity<Ticket>().ToTable("tickets");
+        modelBuilder.Entity<User>().ToTable("users");
+        modelBuilder.Entity<Role>().ToTable("roles");
+        modelBuilder.Entity<Permission>().ToTable("permissions");
+        modelBuilder.Entity<RolePermission>().ToTable("rolepermissions");
+        modelBuilder.Entity<UserRole>().ToTable("userroles");
 
         
         modelBuilder.Entity<RolePermission>()
